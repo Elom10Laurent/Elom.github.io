@@ -1,0 +1,45 @@
+
+body{
+          background-color:yellowgreen;
+}
+.container{
+          display: inline-block;
+          margin: 30%;
+          text-align: center;
+        background-color:black;
+        border-radius: 10px;
+
+}
+
+
+.display{
+          background-color: rgb(193, 88, 162);
+          padding: 15px;
+          width: 250px;
+          text-align: right;
+          font-size: 20px;
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
+          
+}
+
+button {
+          padding: 10px;
+          width: 67px;
+          height: 45px;
+          margin-top: 10px;
+          background-color: rgb(196, 118, 224);
+          color: black;
+          font-size: 20px;
+
+    }
+
+button:hover
+ {
+          cursor: pointer;
+          background-color: rgb(182, 178, 178);
+         }
+button:active 
+{
+          background-color: rgb(136, 136, 136);
+         }
